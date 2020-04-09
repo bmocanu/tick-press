@@ -1,0 +1,11 @@
+`------------------------------------------------------------------------------`
+This file defines the links used in this project. Oh, and by the way, this is a comment. All the content enclosed in 2 or more 
+dashes is a comment. The comment expands until it finds an end of a Tick command (double-ticks) or another command.
+`------------------------------------------------------------------------------`
+
+`link-def judgemental               https://nickwignall.com/judgmental/`
+`link-def self-aware-people         https://nickwignall.com/self-aware-people/
+`link-def my-medium-page            https://medium.com/@nickwignall` 
+`link-def why-we-worry              https://nickwignall.com/why-we-worry/`
+`link-def stress-and-anxiety        https://nickwignall.com/stressed-out/`
+`link-def mental-habits             https://nickwignall.com/mental-habits-making-you-miserable/`

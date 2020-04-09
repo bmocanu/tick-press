@@ -1,0 +1,25 @@
+`----------------------------------------------------------------------------------------------------`
+So this is the list of quotes that are used in this article or other articles. Each quote has an ID (like a user friendly name without spaces),
+an author and a content
+`----------------------------------------------------------------------------------------------------`
+
+`quote-def improving-by-doing-less`
+Improving your emotional intelligence is often about what you do less of, not more of.
+``
+
+`quote-def fulton-criticism-of-others Fulton J. Sheen`
+Criticism of others is a form of self-commendation. We think we make the picture hang straight on our wall by telling our 
+neighbors that all his pictures are crooked.
+``
+
+`quote-def corrie-worry-empty Corrie Ten Boom`
+Worry does not empty tomorrow of its sorrow, it empties today of its strength.
+``
+
+`quote-def dostoyevsky-think Fyodor Dostoyevsky`
+To think too much is a disease.
+``
+
+`quote-def jordan-swimming Robert Jordan`
+He was swimming in a sea of other people’s expectations. Men had drowned in seas like that.
+``

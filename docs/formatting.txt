@@ -1,0 +1,65 @@
+!! This is not Tick formatting, these docs will probably be organized as Markdown !!
+
+Tick files
+----------
+Tick files are simply text files, with a .txt extension. The files are all the same,
+there is no special file to introduce meta content, definitions or other cross-content
+material. The users can name their files and organize their content and their definitions
+however they feel like. 
+
+E.g.:
+A blog owner can organize their content in the following way:
+- links.txt: contains all the external links used in the blog posts
+- quotes.txt: contains all the quotes defined in one place, and included whenever they are needed
+- post-about-cats.txt: a nice post about cats
+- post-about-dogs.txt: a nice post about dogs
+- about-me.txt: a bio page of the author
+- images (folder): contains the images used in the posts
+
+Commands
+--------
+The formatting in Tick is organized as commands. A command is entered by a tick mark,
+has a name and zero or more parameters. Commands have a text body that follows after 
+the command is introduced and ends with an empty command (double ticks) or when a new 
+command is introduced.
+
+Command format:
+<tick><command name> [<command parameters>]<tick>
+<command text body>
+<tick><tick>
+
+Examples:
+`b`This is bold`` and this is normal.
+`i`This is italic`` and this is normal again.
+Here follows a link to the `link https://google.com`Google`` website.
+After all this lovely paragraph, here is a quote that I love:
+`h1` This is a heading level 1``
+`h1-` This is a heading level 1 that spans the entire line and does not need a finish command
+
+`quote-ref lincoln-folks-happy-minds`
+
+Comments
+--------
+Comments in Tick are introduced using a command made of two or more dashes. This
+helps with easily spotting the comments, marking interesting portions of text so
+that they are more easily when viewed in the text format.
+
+`----------------------------------------------------------------------------------------------------`
+This is a comment and works great. You can end it with double-ticks, like this:
+``
+
+`----------------------------------------------------------------------------------------------------`
+Or it could be entered by another comment command, like this:
+`----------------------------------------------------------------------------------------------------`
+
+So now we can use comments to just highlight headings in a content file, so that they
+are easier to spot them in a content file:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Nam quam diam, hendrerit eu hendrerit quis, consequat quis erat.
+
+`-----------------------------------`
+`h1-` Introduction
+
+Praesent in ex porta, ultrices dui fringilla, dignissim arcu. Nullam quis sem pellentesque, ultrices 
+elit a, ultricies sem. Aenean ac pellentesque enim, a vulputate risus.
