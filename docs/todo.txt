@@ -1,0 +1,8 @@
+Questions
+---------
+Should `h1` expand automatically to end of line, or have `h1` as normal command (requiring an end command) and `h1-` as an extra command
+that extends to the end of line?
+
+Enhance `image-ref` with formatting options (alignment, relative size, integration in text)
+
+Add image to the 4-things sample.

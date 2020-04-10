@@ -1,0 +1,10 @@
+`title`
+Building a Spring Boot REST web service in 4 steps
+``
+
+`description`
+It only takes you 15 minutes to build a REST service with the help of Spring Boot. Follow our simple steps to get you going.
+``
+
+`image-ref images/Cleverti_spring_boot.png`
+
