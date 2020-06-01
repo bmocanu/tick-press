@@ -1,6 +1,6 @@
 `----------------------------------------------------------------------------------------------------`
-So this is the list of quotes that are used in this article or other articles. Each quote has an ID (like a user friendly name without spaces),
-an author and a content
+So this is the list of quotes that are used in this article or other articles. 
+Each quote has an ID (like a user friendly name without spaces), an author and a content
 `----------------------------------------------------------------------------------------------------`
 
 `quote-def improving-by-doing-less`
